@@ -46,6 +46,6 @@ This project follows **Object-Oriented Programming (OOP)** design, with modular 
 ---
 
 ## 🔧 How to Run This Project
-first clone and this run this command in your terminal
+first clone  this and run this command in your terminal
 streamlit run app.py
 
